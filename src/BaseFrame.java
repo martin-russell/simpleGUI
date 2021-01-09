@@ -2,9 +2,9 @@ import javax.swing.*;
 
 public class BaseFrame extends JFrame {
 
- 
+    private static final long serialVersionUID = 1L;
 
-    BaseFrame () {
+    BaseFrame() {
         this.setTitle("Default Window Title from class");  
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);

@@ -1,6 +1,8 @@
 public class MyFrame extends BaseFrame {
 
-    MyFrame(){
+    private static final long serialVersionUID = 1L;
+
+    MyFrame() {
 
     }
 
