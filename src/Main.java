@@ -18,8 +18,5 @@ public class Main {
         frame.setLocation(100,0);
         secondFrame.setLocation(600, 0);
 
-        
-        
-        
     }
 }
