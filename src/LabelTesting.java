@@ -17,6 +17,7 @@ public class LabelTesting {
         
 
         JFrame frame = new JFrame(); // create new frame
+        frame.setTitle("New window title");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // set close behaviour
         frame.setSize(900,900); // set frame size
         frame.setVisible(true); // make frame visible
