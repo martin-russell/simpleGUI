@@ -1,7 +1,6 @@
 import java.awt.Color;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JLayer;
 import javax.swing.JLayeredPane;
 
 public class LayeredPaneInTheAss {
