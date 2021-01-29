@@ -1,5 +1,6 @@
-import javax.swing.*;
-import javax.swing.event.AncestorListener;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import java.awt.event.*;
 
 public class LaunchPage implements ActionListener {
     
@@ -17,5 +18,10 @@ public class LaunchPage implements ActionListener {
         frame.setSize(400,400);
         frame.setLayout(null);
         frame.setVisible(true);
+    }
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        
     }
 }
